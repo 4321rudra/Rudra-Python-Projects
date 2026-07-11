@@ -1,0 +1,10 @@
+2026-Jul-11-09:10:36 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:10:38 : Data Extraction completed . Initiating Transformation Process !2026-Jul-11-09:10:38 : Data Transformation completed . Initiating Data Analysis2026-Jul-11-09:10:38 : Data Analysis Completed . Moving to Visualization2026-Jul-11-09:10:45 : Visualization done. Loading data into csv now 2026-Jul-11-09:10:45 : Loading Completed . Program successfully executed2026-Jul-11-09:12:50 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:14:30 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:14:32 : Data Extraction completed . Initiating Transformation Process !2026-Jul-11-09:16:34 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:17:09 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:17:21 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:19:33 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:20:18 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:22:11 : Data Extraction completed . Initiating Transformation Process !2026-Jul-11-09:29:11 : Preliminaries complete. Initiating ETL process2026-Jul-11-09:31:05 : Data Extraction completed . Initiating Transformation Process !2026-Jul-11-09:31:05 : Data Transformation completed . Initiating Data Analysis2026-Jul-11-09:31:05 : Data Analysis Completed . Moving to Visualization2026-Jul-11-09:31:27 : Visualization done. Loading data into csv now 2026-Jul-11-09:31:27 : Loading Completed . Program successfully executed2026-Jul-11-09:33:22 : Preliminaries complete. Initiating ETL process
+2026-Jul-11-09:35:15 : Data Extraction completed . Initiating Transformation Process !
+2026-Jul-11-09:35:15 : Data Transformation completed . Initiating Data Analysis
+2026-Jul-11-09:35:15 : Data Analysis Completed . Moving to Visualization
+2026-Jul-11-09:35:23 : Visualization done. Loading data into csv now 
+2026-Jul-11-09:35:23 : Loading Completed . Program successfully executed
+
+------------------------------------------------------------------
+
+
